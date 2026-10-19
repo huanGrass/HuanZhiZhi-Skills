@@ -1,0 +1,7 @@
+{
+  "protocol_version": 1,
+  "id": "桌宠排球",
+  "description": "球和球网直接浮在桌面上。鼠标控制左侧球拍，之之在右侧用头顶球；持续计分，Esc 或停止任务退出。",
+  "presentation": "persistent",
+  "parameters": []
+}

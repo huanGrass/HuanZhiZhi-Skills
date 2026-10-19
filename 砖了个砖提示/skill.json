@@ -1,0 +1,6 @@
+{
+  "protocol_version": 1,
+  "id": "砖了个砖提示",
+  "description": "只识别游戏画面并用桌宠提示点击或直线拖动；由你操作，不会自动点击。",
+  "presentation": "persistent"
+}
