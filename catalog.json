@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "skills": [
+    {
+      "id": "砖了个砖提示",
+      "category": "游戏辅助",
+      "description": "识别砖了个砖棋盘，提示点击和拖动；由你操作，不自动点击。",
+      "version": "1.0.0",
+      "size": 15795,
+      "sha256": "1ebc087549b4074c39dba0b440d1f9066703d5a43cdbe3803338a3a9f9634000",
+      "url": "https://raw.githubusercontent.com/huanGrass/HuanZhiZhi-Skills/1a1454d13f06e4f93efe247c6cd148ca3d76eb55/packages/brick-hint-1.0.0.zip"
+    },
+    {
+      "id": "桌宠排球",
+      "category": "桌宠互动",
+      "description": "在桌面上和之之打排球，鼠标控制球拍，随时暂停或退出。",
+      "version": "1.0.0",
+      "size": 41633,
+      "sha256": "a1b188be6fe656a11674fd3388a8001dc8eb151bdfd73f5729437b8dbded1e14",
+      "url": "https://raw.githubusercontent.com/huanGrass/HuanZhiZhi-Skills/1a1454d13f06e4f93efe247c6cd148ca3d76eb55/packages/pet-volleyball-1.0.0.zip"
+    }
+  ]
+}
