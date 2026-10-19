@@ -3,7 +3,7 @@
   "skills": [
     {
       "id": "砖了个砖提示",
-      "category": "游戏辅助",
+      "category": "游戏助手",
       "description": "识别砖了个砖棋盘，提示点击和拖动；由你操作，不自动点击。",
       "version": "1.0.0",
       "size": 15795,
